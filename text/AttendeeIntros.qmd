@@ -2,7 +2,14 @@
 title: Introduction to Meeting Attendees
 ---
 
-![](images/ludo_sefsc.jpg)
+## Example:
+
+### \[Insert Image\] Name, *Institution* (using Header 3)
+
+Write \~ 3 sentences about yourself (the work you do, what you do for fun). Bonus if you'd like to cite a favorite publication (yours or others).
+
+
+![](images/ludo_sefsc.jpg){width="300"}
 
 ### Ludovic (Ludo) Tenorio-Hallé, [*SEFSC*](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center) */ [CIMAS](https://cimas.earth.miami.edu)*
 
